@@ -10,7 +10,7 @@ What is not included:
 * Reposts of course material, or any other material (post a link to the material rather than copying it here)
 * Solutions to any course exercises, homework or exam questions (or links to material that directly provides any of those solutions)
 
-This is intended to be a collaborative resource!  Learners are encouraged to contribute to the wiki within the parameters above.
+This is intended to be a collaborative resource!  Learners are encouraged to contribute to the wiki within the parameters above.  Let's try to keep it focused with just the "good stuff".
 ### [Visit the wiki](https://github.com/roadfoodr/mitx-sds-resources/wiki)
 
 
