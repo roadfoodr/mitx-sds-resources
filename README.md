@@ -14,3 +14,5 @@ This is intended to be a collaborative resource!  Learners are encouraged to con
 ### [Visit the wiki](https://github.com/roadfoodr/mitx-sds-resources/wiki)
 
 
+---
+###### This wiki is not a publication of MITx and is not affiliated with the SDS MicroMasters program.  Resources here are contributed by students collaborating with one another for learning purposes.
